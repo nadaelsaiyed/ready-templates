@@ -1,3 +1,6 @@
+## Project Demo
+🎉 Try it live: [Click here](https://ready-templates.vercel.app/)
+
 # ReadyTemplates
 A Next.js project that provides ready-made website templates.
 
@@ -13,7 +16,6 @@ A Next.js project that provides ready-made website templates.
    npm install
    npm run dev
    
-## Project Demo
-🎉 Try it live: [Click here](https://ready-templates.vercel.app/)
+
 
   
