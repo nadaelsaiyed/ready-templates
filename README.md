@@ -1,16 +1,18 @@
-# Businesses Project
+# ReadyTemplates
+A Next.js project that provides ready-made website templates.
 
-مشروع Next.js لعرض أعمال ومشاريع.
-
-## التقنيات المستخدمة
-- Next.js
+## Technologies Used
 - React
 - TypeScript
 
-## تشغيل المشروع محلياً
-1. انسخي المشروع على جهازك
-2. افتحي الطرفية في مجلد المشروع
-3. نفذي:
+## Running the Project Locally1.
+1. Clone the repository to your local machine.
+2. Open the terminal in the project folder.
+3. Run:
    ```bash
    npm install
    npm run dev
+   
+## Project Demo
+🎉 Try it live: [Click here]([https://ready-templates.vercel.app/])
+  
