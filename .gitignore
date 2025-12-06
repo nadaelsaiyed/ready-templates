@@ -1,0 +1,14 @@
+# مجلد البناء الخاص بـ Next.js
+.next
+out
+
+# مجلد المكتبات
+node_modules
+
+# ملفات اللوج
+*.log
+logs
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
